@@ -16,6 +16,10 @@
 Makefile
 config.log
 config.status
+.deps/
+autom4te.cache/
+*~
+src/smv_config.hpp
 
 # And the executables
 brownion
